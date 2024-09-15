@@ -1,6 +1,6 @@
 my submission's details
 it includes:
-	Dockerfile:                                                         <project-path>/Dockerfile
+    Dockerfile:                                                         <project-path>\Dockerfile
     Screenshot of AWS CodeBuild pipeline:                               <project-path>\images\codebuild_triggered_by_github_hook.png
     Screenshot of AWS ECR repository for the application's repository:  <project-path>\images\docker_image_pushed_to_ERC.png
     Screenshot of kubectl get svc:                                      <project-path>\images\kubectl_get_svc.png
